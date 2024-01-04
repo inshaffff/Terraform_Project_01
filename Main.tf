@@ -8,8 +8,8 @@ terraform {
 
 provider "aws" {
   region = "eu-north-1"
-  access_key = "AKIA6PME6FIHRNIZAZMQ"
-  secret_key = "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"
+  access_key = 
+  secret_key = 
 }
 
 #create a Virual Private Network - VPC
